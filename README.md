@@ -1,4 +1,4 @@
-woocom-extra
+JavaScript
 ============
 
-a wordpress plugin that extends woocommrce order processing
+learning JavaScript - Code Academy
